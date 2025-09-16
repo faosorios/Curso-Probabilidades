@@ -11,3 +11,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesión 1: Elementos de teoría de conjuntos [[slides]](https://github.com/faosorios/Curso-Probabilidades/blob/main/diapositivas/slides-01.pdf)
 - Sesión 2: Técnicas de conteo [[slides]](https://github.com/faosorios/Curso-Probabilidades/blob/main/diapositivas/slides-02.pdf)
 - Sesión 3: Fundamentos de probabilidad [[slides]](https://github.com/faosorios/Curso-Probabilidades/blob/main/diapositivas/slides-03.pdf)
+
+## Material de lectura adicional
+
+- Nociones de Probabilida [[PDF]](https://github.com/faosorios/Curso-Probabilidades/blob/main/material/nociones_de_probabilidad.pdf)
