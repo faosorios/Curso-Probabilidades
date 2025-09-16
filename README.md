@@ -14,4 +14,4 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 
 ## Material de lectura adicional
 
-- Nociones de Probabilida [[PDF]](https://github.com/faosorios/Curso-Probabilidades/blob/main/material/nociones_de_probabilidad.pdf)
+- Nociones de Probabilidad [[PDF]](https://github.com/faosorios/Curso-Probabilidades/blob/main/material/nociones_de_probabilidad.pdf)
