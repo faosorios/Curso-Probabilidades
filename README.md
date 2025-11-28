@@ -11,4 +11,4 @@ Este repositorio contiene el material del curso **IECD-223: Probabilidades** (Un
 - Generando digitos aleatorios e integración Monte Carlo [[PDF]](https://github.com/faosorios/Curso-Probabilidades/blob/main/material/RNG_y_Monte-Carlo.pdf)
 
 ## Evaluaciones
-- **2025**: [[Prueba 1]](eval/IECD223-P1_2025.pdf), [[Pauta 1]](eval/IECD223-R1_2025.pdf) | [[Prueba 2]](eval/IECD223-P2_2025.pdf), [[Pauta 2]](eval/IECD223-R2_2025.pdf)
+- **2025**: [[Prueba 1]](eval/IECD223-P1_2025.pdf), [[Pauta 1]](eval/IECD223-R1_2025.pdf) | [[Prueba 2]](eval/IECD223-P2_2025.pdf), [[Pauta 2]](eval/IECD223-R2_2025.pdf) | [[Control 1]](eval/IECD223-C1_2025.pdf), [[Control 2]](eval/IECD223-C2_2025.pdf)
